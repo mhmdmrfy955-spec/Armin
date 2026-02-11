@@ -5,3 +5,5 @@ vless://f9f8289a-ce61-45d4-e7a3-5b1c6b9c126d@3.68.199.168:15948?security=none&en
 vless://4b8ae564-ace1-46e3-c340-9cd748610266@18.194.240.115:443?security=none&encryption=none&headerType=none&type=tcp#5 vpn_ir27
 vless://eea43b1a-4411-4ff7-f5b4-a860a81cad63@18.197.189.201:28706?security=none&encryption=none&headerType=none&type=tcp#6%20vpn_ir27
 vless://794237e1-71c3-43bd-e51c-8b7e83b857d5@3.76.6.107:22379?security=none&encryption=none&headerType=none&type=tcp#7 vpn_ir27
+vless://4c97ec3e-3527-48c5-80ff-b715463896ba@nodejs.org:80?path=%2F%3Fed&security=none&encryption=none&host=kIndhEArTeD-PARkb5Rjo2juEr.sPorTLaNd.COMpAny.&type=ws#%D8%B9%D8%B6%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B4%D9%88%DB%8C%D8%AF%20vpn_ir27%40
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.167:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%D8%B9%D8%B6%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B4%D9%88%DB%8C%D8%AF%20vpn_ir27%40
