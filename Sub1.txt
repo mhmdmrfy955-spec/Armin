@@ -1,2 +1,5 @@
-vless://2ff33a44-8394-47db-8eb6-d1277e927a74@82.27.2.12:3353?type=xhttp&security=reality&sni=yahoo.com&fp=random&pbk=mKcQQ8RY7gIj1cEq91hlF9rckeMDAXk_tjN_qA8n8gs&sid=8b9baa1a0d828ba3&spx=%2Fdownload&host=google.ca#🇩🇪All City 🔥🔥
-vless://818d3991-3a6f-406e-a313-99d128e0aa1e@cdn1.glitchfm.ir:2053?mode=auto&security=tls&encryption=none&insecure=0&host=node1.vexify.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=node1.vexify.ir#%F0%9F%87%AB%F0%9F%87%AE%F0%9F%8C%90%7C%20%F0%9D%97%99%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1%20%5B%F0%9F%87%AE%F0%9F%87%B7Meli%5D%5BArmin33%5D%20-%20XHTTP
+vless://3cadf249-13a2-413f-867a-a802964f914d@18.199.224.105:443?security=none&encryption=none&headerType=none&type=tcp#1
+vless://ccab17f9-00a7-4493-c4a6-bbdd9e22166e@18.157.158.240:443?security=none&encryption=none&headerType=none&type=tcp#2
+vless://a0891e86-ce1f-4e1b-e47c-84c890f1b130@18.185.89.103:443?security=none&encryption=none&headerType=none&type=tcp#3
+vless://f9f8289a-ce61-45d4-e7a3-5b1c6b9c126d@3.68.199.168:15948?security=none&encryption=none&headerType=none&type=tcp#4
+vless://4b8ae564-ace1-46e3-c340-9cd748610266@18.194.240.115:443?security=none&encryption=none&headerType=none&type=tcp#5
